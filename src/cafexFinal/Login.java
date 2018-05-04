@@ -73,7 +73,7 @@ public class Login extends JFrame {
 		
 		JButton btnGiri = new JButton("");
 		btnGiri.setBounds(240, 361, 54, 46);
-		btnGiri.setIcon(new ImageIcon("C:\\Users\\2150656046\\Desktop\\Masa\\icon\\ok-mark (1).png"));
+		btnGiri.setIcon(new ImageIcon("C:\\Users\\TANKUT\\Desktop\\icon\\ok-mark (1).png"));
 		btnGiri.setBorder(UIManager.getBorder("Tree.editorBorder"));
 		btnGiri.setBackground(new Color(50, 205, 50));
 		btnGiri.setFont(new Font("Tahoma", Font.BOLD, 13));
