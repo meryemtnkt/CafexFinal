@@ -181,7 +181,7 @@ public class Personal extends JFrame {
 		//JTable table = new JTable(tableModel);
 		
 
-		table.setBounds(264, 13, 638, 433);
+		table.setBounds(264, 26, 638, 420);
 		contentPane.add(table);
 
 		
